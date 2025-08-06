@@ -7,7 +7,7 @@ def get_requirements(file_path:str)->List[str]:
     This function will return a list of requirements from the given file path.
     '''
     requirements=[]
-    with open(file_path) as file_obj:
+    with open('./requirements.txt') as file_obj:
         requirements = file_obj.readlines()
         requirements = [req.replace("\n", "") for req in requirements]
         
@@ -18,10 +18,10 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    name='ml-project',
+    name='RS-MIGA',
     version='0.1',
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='Giorgio Casoni',
+    author_email='giorgio.casoni.03@gmail.com',
     packages=find_packages(),
     install_requires=get_requirements('requirements.txt')
 )

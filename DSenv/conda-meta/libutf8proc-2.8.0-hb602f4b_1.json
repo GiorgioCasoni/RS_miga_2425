@@ -1,0 +1,69 @@
+{
+  "build": "hb602f4b_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\gcaso\\miniconda3\\pkgs\\libutf8proc-2.8.0-hb602f4b_1",
+  "files": [
+    "Library/bin/utf8proc.dll",
+    "Library/include/utf8proc.h",
+    "Library/lib/pkgconfig/libutf8proc.pc",
+    "Library/lib/utf8proc.lib"
+  ],
+  "fn": "libutf8proc-2.8.0-hb602f4b_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\gcaso\\miniconda3\\pkgs\\libutf8proc-2.8.0-hb602f4b_1",
+    "type": 1
+  },
+  "md5": "4dce7215af5e642fe84a07321c0628f6",
+  "name": "libutf8proc",
+  "package_tarball_full_path": "C:\\Users\\gcaso\\miniconda3\\pkgs\\libutf8proc-2.8.0-hb602f4b_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/utf8proc.dll",
+        "path_type": "hardlink",
+        "sha256": "33c7947941adae06b402a67f03ef19a216db11e596c99f83baeecf0aea3dbbff",
+        "sha256_in_prefix": "33c7947941adae06b402a67f03ef19a216db11e596c99f83baeecf0aea3dbbff",
+        "size_in_bytes": 350208
+      },
+      {
+        "_path": "Library/include/utf8proc.h",
+        "path_type": "hardlink",
+        "sha256": "3ac6bcc03716a8af82ad91d8287186a846209b3aadab04f001004d33bdb7314e",
+        "sha256_in_prefix": "3ac6bcc03716a8af82ad91d8287186a846209b3aadab04f001004d33bdb7314e",
+        "size_in_bytes": 31001
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libutf8proc.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/libutf8proc_1732829566990/_h_env",
+        "sha256": "bd0dd89d18bf129a3be7446ecc193c60127592095c90def3c12c494ef402f83f",
+        "sha256_in_prefix": "59e1672901641b4ff7bb5d99e6cf6650fa69c3b23bf7390fa3a5ca98300b9e67",
+        "size_in_bytes": 390
+      },
+      {
+        "_path": "Library/lib/utf8proc.lib",
+        "path_type": "hardlink",
+        "sha256": "54830994df5b563dcf78295c4efba376b49be99ebb6c47ef218b890cc34bf8f8",
+        "sha256_in_prefix": "54830994df5b563dcf78295c4efba376b49be99ebb6c47ef218b890cc34bf8f8",
+        "size_in_bytes": 8086
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b9e55f0be8ea5bee960565fd18c232a0ef62af7f007d1d102a3b66c496489d68",
+  "size": 83847,
+  "subdir": "win-64",
+  "timestamp": 1732830082000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libutf8proc-2.8.0-hb602f4b_1.conda",
+  "version": "2.8.0"
+}

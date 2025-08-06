@@ -1,0 +1,38 @@
+{
+  "build": "py312hd42ba9a_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "libarrow-acero 16.1.0.*",
+    "libarrow-dataset 16.1.0.*",
+    "libarrow-substrait 16.1.0.*",
+    "libparquet 16.1.0.*",
+    "numpy >=1.26.4,<2.0a0",
+    "pyarrow-core 16.1.0 *_1_*",
+    "python >=3.12,<3.13.0a0",
+    "python_abi 3.12.* *_cp312"
+  ],
+  "extracted_package_dir": "C:\\Users\\gcaso\\miniconda3\\pkgs\\pyarrow-16.1.0-py312hd42ba9a_1",
+  "files": [],
+  "fn": "pyarrow-16.1.0-py312hd42ba9a_1.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\gcaso\\miniconda3\\pkgs\\pyarrow-16.1.0-py312hd42ba9a_1",
+    "type": 1
+  },
+  "md5": "b55079b3fb9c6869835ad647d7de1d74",
+  "name": "pyarrow",
+  "package_tarball_full_path": "C:\\Users\\gcaso\\miniconda3\\pkgs\\pyarrow-16.1.0-py312hd42ba9a_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "9a142c52b1c793aa4ce59ddbea01ef294666f9d0d32be6a3716e42271432bcde",
+  "size": 27286,
+  "subdir": "win-64",
+  "timestamp": 1716352187000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/pyarrow-16.1.0-py312hd42ba9a_1.conda",
+  "version": "16.1.0"
+}

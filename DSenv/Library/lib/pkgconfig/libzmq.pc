@@ -1,0 +1,12 @@
+prefix=c:/Users/gcaso/Documents/progetti_uni/RS-MIGA/DSenv/Library
+exec_prefix=c:/Users/gcaso/Documents/progetti_uni/RS-MIGA/DSenv/Library
+libdir=c:/Users/gcaso/Documents/progetti_uni/RS-MIGA/DSenv/Library/lib
+includedir=c:/Users/gcaso/Documents/progetti_uni/RS-MIGA/DSenv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 
