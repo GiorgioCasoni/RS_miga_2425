@@ -1,9 +1,0 @@
-pandas
-numpy
-seaborn
-matplotlib
-scikit-learn
-scikit-surprise
-nltk
-datasets
--e .
